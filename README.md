@@ -3,7 +3,7 @@
 - 👀 I’m interested in ... Machine Learning, Sports Analytics, Predictive Analytics
 - 🌱 I’m currently learning ... Github, Looker, SnowFlake
 - 💞️ I’m looking to collaborate on ... NBA, NFL, MLB, and EPL Predictive Analytics, Spotify Playlists
-- 📫 How to reach me ... kaminski.michael.25@gmail.com or [on LinkedIn](https://www.linkedin.com/in/michaelkaminski/)
+- 📫 How to reach me ... kaminski.michael.25@gmail.com or on [LinkedIn](https://www.linkedin.com/in/michaelkaminski/)
 
 
 <!---
