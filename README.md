@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mike Kaminski!
-- 🚀 I'm currently ... shuttling over the projects from my master's program - it's a WIP
-- 👀 I’m interested in ... Machine Learning, Sports Analytics, Predictive Analytics
-- 🌱 I’m currently learning ... Github, Looker, SnowFlake
-- 💞️ I’m looking to collaborate on ... NBA, NFL, MLB, and EPL Predictive Analytics, Spotify Playlists
+- 🚀 I'm currently ... updating projects as I complete
+- 👀 I’m interested in ... Machine Learning,  Predictive Analytics, Music, Sports Analytics
+- 🌱 I’m currently learning ... Github, SnowFlake, Databricks, Looker 
+- 💞️ I’m looking to collaborate on ... NFL and/or EPL Predictive Analytics, Spotify Playlists
 - 📫 How to reach me ... kaminski.michael.25@gmail.com or on [LinkedIn](https://www.linkedin.com/in/michaelkaminski/)
 
 
